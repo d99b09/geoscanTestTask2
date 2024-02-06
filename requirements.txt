@@ -1,0 +1,7 @@
+future==0.18.3
+lxml==5.1.0
+numpy==1.26.3
+opencv-contrib-python==4.7.0.72
+pioneer-sdk @ git+https://github.com/geoscan/pioneer_sdk.git@e6a42906e455002b9841c2d51a8fdda81f1f698a
+pymavlink==2.4.14
+pyserial==3.5
